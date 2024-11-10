@@ -1,10 +1,10 @@
-package com.fullstackJava.MyfirstWebApp;
+package com.fullstackJava.rest.webservices.restful_web_services;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PersevereApplicationTests {
+class RestfulWebServicesApplicationTests {
 
 	@Test
 	void contextLoads() {
